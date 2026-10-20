@@ -1,8 +1,8 @@
-# NaNoGenMo 2025
+# NaNoGenMo 2026
 
-[![entries: completed][~completed]](https://github.com/NaNoGenMo/2025/issues?q=label%3Acompleted)
-[![entries: preview][~preview]](https://github.com/NaNoGenMo/2025/issues?q=label%3Apreview)
-[![issues: admin][~admin]](https://github.com/NaNoGenMo/2025/issues?q=label%3Aadmin)
+[![entries: completed][~completed]](https://github.com/NaNoGenMo/2026/issues?q=label%3Acompleted)
+[![entries: preview][~preview]](https://github.com/NaNoGenMo/2026/issues?q=label%3Apreview)
+[![issues: admin][~admin]](https://github.com/NaNoGenMo/2026/issues?q=label%3Aadmin)
 [![mastodon: nanogenmobot][~mastodon]](https://botsin.space/@NaNoGenMoBot)
 
 [~completed]: https://img.shields.io/badge/entries-completed-0e8a16.svg
@@ -15,8 +15,9 @@ National Novel Generation Month - based on [an idea Darius tweeted on a whim](ht
 <p align="center"><a href="https://tinysubversions.com/twitter-archive/tinysubversions/status/396305662000775168"><img src="https://nanogenmo.github.io/tweet.png" width="600" height="338" alt="Hey, who wants to join me in NaNoGenMo: spend the month writing code that generates a 50k word novel, share the novel & the code at the end"></a></p>
 
 
-This is the 2025 edition. For previous years see:
+This is the 2026 edition. For previous years see:
 
+* [2025](https://github.com/NaNoGenMo/2025)
 * [2024](https://github.com/NaNoGenMo/2024)
 * [2023](https://github.com/NaNoGenMo/2023)
 * [2022](https://github.com/NaNoGenMo/2022)
@@ -76,6 +77,7 @@ There are already a ton of resources on the old resources threads from past year
 * [2022](https://github.com/NaNoGenMo/2022/issues/1)
 * [2023](https://github.com/NaNoGenMo/2023/issues/1)
 * [2024](https://github.com/NaNoGenMo/2024/issues/1)
+* [2025](https://github.com/NaNoGenMo/2025/issues/1)
 
 You might want to check out [corpora](https://github.com/dariusk/corpora), a repository of public domain lists of things: animals, foods, names, occupations, countries, etc.
 
